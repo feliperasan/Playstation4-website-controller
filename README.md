@@ -1,2 +1,4 @@
-# Playstation4-website-controller
-Aplicando conceitos de css e html5
+# Site PlayStation4
+Aplicando conceitos de CSS3 e HTML5
+
+<img src="./assets/playstation-apresentation.png">
